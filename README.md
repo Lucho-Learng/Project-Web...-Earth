@@ -5,8 +5,8 @@
 
   
 <div align='right'>
- ## What I want to do next :thinking:<br>
-   - Unlock the secret to the universe :rofl:  
+## What I want to do next :thinking:<br>
+- Unlock the secret to the universe :rofl:  
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"></em></p><br>
 </div>
 
